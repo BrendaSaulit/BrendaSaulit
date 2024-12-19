@@ -14,3 +14,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
 - Java
 - MySQL
+
+##
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
