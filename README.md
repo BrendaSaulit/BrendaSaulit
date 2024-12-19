@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, eu sou a Brenda Saulit👋
+<div>
+ <a href = "mailto:brenda.saulit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brenda-saulit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-<!--
-**BrendaSaulit/BrendaSaulit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Cursando Ciência da Computação na UniRitter
+- 👩‍💻 Estudante de desenvolvimento de software | backend
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href=https://www.linkedin.com/in/brenda-saulit/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaSaulit&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+ </div>
+
+##
