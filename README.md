@@ -11,11 +11,9 @@
 ## 
 **Tecnologias💻**
 
+[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
 - Java
 - MySQL
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
 
 
 ##
