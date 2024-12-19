@@ -1,9 +1,9 @@
-## Olá, eu sou a Brenda Saulit👋
-<div>
- <a href = "mailto:brenda.saulit@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brenda-saulit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Brenda Saulit 👩🏻‍💻
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-03bb85?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-saulit/)](https://www.linkedin.com/in/brenda-saulit/)
+[![Gmail Badge](https://img.shields.io/badge/-brenda.saulit@gmail.com-03bb85?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenda.saulit@gmail.com)](mailto:brenda.saulit@gmail.com)
+
+Olá, me chamo Brenda Saulit
 
 - 🎓 Cursando Ciência da Computação na UniRitter
 - 👩‍💻 Estudante de desenvolvimento de software | backend
