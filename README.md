@@ -5,7 +5,7 @@
 
 
 
-- 🎓 Cursando Ciência da Computação na UniRitter
+- 🎓 Cursando Ciência da Computação
 - 👩‍💻 Estudante de desenvolvimento de software | backend
 
 ## 
