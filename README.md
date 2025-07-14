@@ -6,7 +6,7 @@
 
 
 - 🎓 Cursando Ciência da Computação
-- 👩‍💻 Estagiária em desenvolvimento de software
+- 👩‍💻 Estagiária em Desenvolvimento de Software
 
 ## 
 **Tecnologias💻**
