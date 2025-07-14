@@ -6,12 +6,15 @@
 
 
 - 🎓 Cursando Ciência da Computação
-- 👩‍💻 Estudante de desenvolvimento de software | backend
+- 👩‍💻 Estagiária em desenvolvimento de software
 
 ## 
 **Tecnologias💻**
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql&theme=dark)](https://skillicons.dev)
+- HTML
+- CSS
+- JavaScript
 - Java
 - MySQL
 
